@@ -4,7 +4,7 @@
 **Version:**
 0.0.0
 
-**file extraction:**
+**file extension:**
 .xsv
 
 
